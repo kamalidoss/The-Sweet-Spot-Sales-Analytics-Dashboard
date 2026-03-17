@@ -61,7 +61,7 @@ Relationships:
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 ---
 
