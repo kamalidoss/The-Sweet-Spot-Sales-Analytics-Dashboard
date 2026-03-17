@@ -59,6 +59,12 @@ Relationships:
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard](images/dashboard.png)
+
+---
+
 ## 📈 Dashboard Insights
 
 ### 🔹 KPI Highlights
