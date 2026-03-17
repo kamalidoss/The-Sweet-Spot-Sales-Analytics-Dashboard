@@ -121,4 +121,6 @@ This dashboard provides a comprehensive view of sales performance, helping stake
 ---
 
 ## 👤 Author
-[Your Name]
+**Kamali K 
+Aspiring Data Analyst
+Excel | Power BI | MY Sql | Python**
